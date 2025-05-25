@@ -6,7 +6,7 @@ layout: home
 hero:
   name: "Bhavya Goyal"
   text: "Quant Developer"
-  tagline: Scientific Computing Enthusiast exploring the intersection of computational biology, AI alignment, and high-performance-computing
+  tagline: Mathematical and Computational Finance Research Indulgences
   image:
     src: /logo.png
     alt: Bhavya Goyal
@@ -16,25 +16,20 @@ hero:
       link: /#research-interests-contributions
     - theme: alt
       text: View on Github
-      link: https://github.com/divital-coder
+      link: https://github.com/bhavyaquantdeveloper
+    - theme: alt
+      text: View on LinkedIn
+      link: https://www.linkedin.com/in/bhavya-g-a7415b173/
 
 features:
   - icon: 🔬
-    title: Medical Imaging & Computational Biology
-    details: Developing tools for visualization and analysis of complex biological data
+    title: Business Associate
+    details: UK Research & Benchmarking
     link: /projects/comp-bio.md
   - icon: ⚛️
-    title: High-Energy Physics
-    details: Creating Julia bindings for particle physics simulation libraries
+    title: Code In Place 2025
+    details: CS 106A Offered by Stanford
     link: /projects/hep.md
-  - icon: 🤖
-    title: AI Alignment
-    details: Research on ensuring AI systems behave in accordance with human values
-    link: /projects/ai-alignment.md
-  - icon: 💻
-    title: High-Performance Computing
-    details: Optimizing scientific workflows for multi-GPU environments
-    link: /projects/hpc.md
 ---
 ```
 
