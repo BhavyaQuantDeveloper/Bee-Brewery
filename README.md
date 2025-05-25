@@ -1,7 +1,7 @@
 # Bee-Brewery
 
 
-Portfolio page for research blogs, interests and other indulgences.  
+Portfolio page for research blogs, interests and other indulgences. (Bhavya)  
 
 ### Machine Learning -> Computational Biology:  
 - Cryo-ET tomograms
