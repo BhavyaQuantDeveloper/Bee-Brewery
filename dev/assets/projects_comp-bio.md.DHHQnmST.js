@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.C160Ysun.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"projects/comp-bio.md","filePath":"projects/comp-bio.md","lastUpdated":null}'),a={name:"projects/comp-bio.md"};function c(r,s,p,n,i,m){return o(),t("div")}const l=e(a,[["render",c]]);export{_ as __pageData,l as default};
